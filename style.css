@@ -11,6 +11,7 @@ text-align: center;
 body{
 	background-color:teal;
 	text-align:center;
+
 }
 
 
@@ -27,8 +28,8 @@ img{
 div.Individual-pet {
 	background-color:tomato;
 	color:black;
-	font-size:13;
-	font-family:times;
+	font-size:140%;
+	font-family: Times New Roman;
 	height:600px;
 	Width:1000px;
 	text-align:center;
