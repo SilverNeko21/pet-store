@@ -1,7 +1,39 @@
 #store-name{
-  color:orange;
+  color: white;
   text-align:center;
 }
-#all-pets{
 
+#all-pets{
+text-align: center;
 }
+
+
+body{
+	background-color:teal;
+	text-align:center;
+}
+
+
+
+img{
+	max-height: 300px;
+	width: 500px;
+	display: block;
+	margin: auto;
+}
+
+
+
+div.Individual-pet {
+	background-color:tomato;
+	color:black;
+	font-size:13;
+	font-family:times;
+	height:600px;
+	Width:1000px;
+	text-align:center;
+	margin: auto;
+	border:5px solid black;
+}
+
+
