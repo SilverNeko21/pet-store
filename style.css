@@ -7,14 +7,11 @@
 text-align: center;
 }
 
-
 body{
 	background-color:teal;
 	text-align:center;
 
 }
-
-
 
 img{
 	max-height: 300px;
@@ -23,9 +20,7 @@ img{
 	margin: auto;
 }
 
-
-
-div.Individual-pet {
+.Individual-pet {
 	background-color:tomato;
 	color:black;
 	font-size:140%;
